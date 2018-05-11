@@ -52,7 +52,7 @@ NOTE: Summary of links also in excel file attached
 	
 	
 	3) Create an x and y axis on which to display the image of each vehicle, X showing mile range and Y showing price range
-	4) Each image of the vehicle clicks through  => user is taken to official site external links to learn full details/where to buy/etc.
+	4) Each image of the vehicle clicks through  => user is taken to official sites to learn full details/where to buy/etc.
 		Note: we can also scrape interactive assets from here if we have time:
 
 		BWW i3
@@ -99,7 +99,7 @@ NOTE: Summary of links also in excel file attached
 		http://www.vw.com/models/e-golf/?&cid=ssem_y56fGy49_95913095106_c
 
 
-	5) Consolidate reviews from car connection or motor trends
+	5) Consolidate reviews from car connection:
 		Tag: <span class="ratingNumber">7.2</span>
 		https://www.thecarconnection.com/cars/bmw_i3#image=100619277
 		https://www.thecarconnection.com/cars/chevrolet_bolt#image=100633723
