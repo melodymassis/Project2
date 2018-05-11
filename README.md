@@ -124,13 +124,3 @@ Footnote:
 What is an electric vehicle (EV)?  A battery electric car is a plug-in electric automobile that is propelled by one or more electric motors, using energy typically stored in rechargeable batteries. Source: 
 https://en.wikipedia.org/wiki/Electric_car
 
-
-****************
-
-
-Note on imagery: I saw the carconnection.com site stored different jpg size images for the same site, I wonder if this is helpful to make a site size responsive?
-https://www.thecarconnection.com/overview/ford_focus-electric_2018
-
-Tag:
-<div class="image" data-image-thumb="https://images.hgmsites.net/tmb/2018-ford-focus-electric_100604706_t.gif" data-image-small="https://images.hgmsites.net/sml/2018-ford-focus-electric_100604706_s.jpg" data-image-medium="https://images.hgmsites.net/med/2018-ford-focus-electric_100604706_m.jpg" data-image-large="https://images.hgmsites.net/lrg/2018-ford-focus-electric_100604706_l.jpg" data-image-huge="https://images.hgmsites.net/hug/2018-ford-focus-electric_100604706_h.jpg" data-width="320" data-height="197" data-index="0" style="background-image: url(&quot;https://images.hgmsites.net/lrg/2018-ford-focus-electric_100604706_l.jpg&quot;);">
-                    </div>
