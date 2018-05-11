@@ -118,7 +118,9 @@ NOTE: Summary of links also in excel file attached
 	Select "ALL" states and scrape full table:
 	https://www.energy.gov/eere/electricvehicles/electric-vehicles-tax-credits-and-other-incentives
 	
-	Tag: <table id="results" class="display dataTable no-footer" We can create an interactive drop down for tax credits: Do the drop down to select state to show applicable tax credits for user
+	Tag: <table id="results" class="display dataTable no-footer" 
+	
+	- We can create an interactive drop down for tax credits: Do the drop down to select state to show applicable tax credits for user
 
 Footnote:
 What is an electric vehicle (EV)?  A battery electric car is a plug-in electric automobile that is propelled by one or more electric motors, using energy typically stored in rechargeable batteries. Source: 
